@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-sleekfit/static/css/main.6cd0dff9.css",
+    "main.js": "/react-sleekfit/static/js/main.300265f1.js",
+    "static/js/453.327c9ce3.chunk.js": "/react-sleekfit/static/js/453.327c9ce3.chunk.js",
+    "static/media/Kinkakuji-Normal.ttf": "/react-sleekfit/static/media/Kinkakuji-Normal.ff9ada0095d47a921d2b.ttf",
+    "static/media/gtrr32.png": "/react-sleekfit/static/media/gtrr32.87c56c473626dcc18232.png",
+    "static/media/trueno.png": "/react-sleekfit/static/media/trueno.dbc96e8753ae906758f6.png",
+    "static/media/peugeot206.png": "/react-sleekfit/static/media/peugeot206.f13e99ec3040ee94555c.png",
+    "static/media/dacia1300.png": "/react-sleekfit/static/media/dacia1300.f0ba93b63711beb7ed0e.png",
+    "static/media/ferrarif40.png": "/react-sleekfit/static/media/ferrarif40.f01babb29bcdc50f3687.png",
+    "static/media/peugeot205.png": "/react-sleekfit/static/media/peugeot205.cdf979f659715d26a03f.png",
+    "static/media/PlayfairDisplay.ttf": "/react-sleekfit/static/media/PlayfairDisplay.bf46a6bcddc9999a295e.ttf",
+    "static/media/PlayfairDisplay-Italic.ttf": "/react-sleekfit/static/media/PlayfairDisplay-Italic.597cf3569777ae281144.ttf",
+    "static/media/JUSTSansBold.otf": "/react-sleekfit/static/media/JUSTSansBold.754d96fec76bd27510f3.otf",
+    "static/media/JUSTSansRegular.otf": "/react-sleekfit/static/media/JUSTSansRegular.4ea0fcccc6094d2b112e.otf",
+    "static/media/grid_cross2.svg": "/react-sleekfit/static/media/grid_cross2.62b6b6ad7f3df3f78a3e13ca861ce73d.svg",
+    "static/media/grid_cross.svg": "/react-sleekfit/static/media/grid_cross.aa67b9264e36673e1a960fd11f933470.svg",
+    "static/media/grid.svg": "/react-sleekfit/static/media/grid.942c81b038722f50e644cef21924fe11.svg",
+    "static/media/bgPattern.svg": "/react-sleekfit/static/media/bgPattern.577cd1e6dac78d57b33eccefbd7bc057.svg",
+    "static/media/grid2.svg": "/react-sleekfit/static/media/grid2.363bc81dfea6584c117d41fc26ce79c4.svg",
+    "static/media/grid_hash.svg": "/react-sleekfit/static/media/grid_hash.0885d7873fce8c024fcb91497333e893.svg",
+    "static/media/grungy.png": "/react-sleekfit/static/media/grungy.ed81b174bf08e646a0f7.png",
+    "static/media/pattern_linew.svg": "/react-sleekfit/static/media/pattern_linew.fc539422750cb62fdbf657a2e4c5efba.svg",
+    "static/media/pattern2.svg": "/react-sleekfit/static/media/pattern2.10e6d7ec9d6e3865a1f3d10316d1eeff.svg",
+    "static/media/pattern.svg": "/react-sleekfit/static/media/pattern.e29613cd406b0a85ef96fdeb8737374b.svg",
+    "static/media/fraction.cjs": "/react-sleekfit/static/media/fraction.7992481f3d8339b77604.cjs",
+    "static/media/tileable_stripe.svg": "/react-sleekfit/static/media/tileable_stripe.71de7e7e409ad218146b51c58c99436c.svg",
+    "static/media/stripe.svg": "/react-sleekfit/static/media/stripe.813f8b0a35aab528c28242e41e26310b.svg",
+    "static/media/emblem.svg": "/react-sleekfit/static/media/emblem.f425ecb9f9c1ba99f44d5f7a8d33305b.svg",
+    "index.html": "/react-sleekfit/index.html",
+    "static/media/index.cjs": "/react-sleekfit/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.6cd0dff9.css.map": "/react-sleekfit/static/css/main.6cd0dff9.css.map",
+    "main.300265f1.js.map": "/react-sleekfit/static/js/main.300265f1.js.map",
+    "453.327c9ce3.chunk.js.map": "/react-sleekfit/static/js/453.327c9ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cd0dff9.css",
+    "static/js/main.300265f1.js"
+  ]
+}
