@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-sleekfit/static/css/main.c8319379.css",
-    "main.js": "/react-sleekfit/static/js/main.7dcefd8e.js",
+    "main.css": "/react-sleekfit/static/css/main.cbcdb963.css",
+    "main.js": "/react-sleekfit/static/js/main.e4e4cff2.js",
     "static/js/453.327c9ce3.chunk.js": "/react-sleekfit/static/js/453.327c9ce3.chunk.js",
     "static/media/gtrr32.png": "/react-sleekfit/static/media/gtrr32.87c56c473626dcc18232.png",
     "static/media/trueno.png": "/react-sleekfit/static/media/trueno.dbc96e8753ae906758f6.png",
@@ -30,12 +30,12 @@
     "static/media/emblem.svg": "/react-sleekfit/static/media/emblem.f425ecb9f9c1ba99f44d5f7a8d33305b.svg",
     "index.html": "/react-sleekfit/index.html",
     "static/media/index.cjs": "/react-sleekfit/static/media/index.cd351d7c31d0d3fccf96.cjs",
-    "main.c8319379.css.map": "/react-sleekfit/static/css/main.c8319379.css.map",
-    "main.7dcefd8e.js.map": "/react-sleekfit/static/js/main.7dcefd8e.js.map",
+    "main.cbcdb963.css.map": "/react-sleekfit/static/css/main.cbcdb963.css.map",
+    "main.e4e4cff2.js.map": "/react-sleekfit/static/js/main.e4e4cff2.js.map",
     "453.327c9ce3.chunk.js.map": "/react-sleekfit/static/js/453.327c9ce3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8319379.css",
-    "static/js/main.7dcefd8e.js"
+    "static/css/main.cbcdb963.css",
+    "static/js/main.e4e4cff2.js"
   ]
 }
