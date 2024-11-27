@@ -32,6 +32,12 @@ Introduces the brand’s vision and its deep connection to JDM culture.
 
 ---
 
+### **Navigation Menu**
+![Navigation Menu](https://media.contra.com/image/upload/w_800,q_auto:best/ehl05ltgwdiatcdwavhm.avif)  
+*Navigation Menu*  
+
+---
+
 ### **Gallery**  
 An interactive carousel showcasing custom apparel designs. Each design reflects a blend of bold, automotive-inspired elements with contemporary apparel trends.  
 
@@ -49,8 +55,6 @@ A fully modular section for updates on the brand’s journey and latest announce
 
 ### **Contact**  
 Straightforward ways for users to get in touch with the brand.  
-
-![Navigation Menu](https://media.contra.com/image/upload/w_800,q_auto:best/ehl05ltgwdiatcdwavhm.avif)  
 
 ---
 
